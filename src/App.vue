@@ -8,7 +8,7 @@
   <div class="p-4 bg-blue-900">Welcome to View</div>
 </template-->
 <template>
-  <div class="p-6 max-w-sm mx-auto bg-blue-300 rounded-xl shadow-md space-y-4">
+  <div class="p-6 max-w-sm mx-auto bg-amber-300 rounded-xl shadow-md space-y-4">
     <img
       alt="Dark Chocolate logo"
       class="logo"
